@@ -19,10 +19,6 @@ This is a simple and clean To-Do List web app that I built using HTML, CSS, and 
 - CSS (with help from ChatGPT)
 - JavaScript
 
-## 📸 Screenshot
 
-![Screenshot](screenshot.png) <!-- Replace with a real screenshot if available -->
-
----
 
 Thanks for checking it out! Feel free to try it or build on top of it.
